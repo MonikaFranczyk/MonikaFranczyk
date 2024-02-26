@@ -49,6 +49,6 @@ Here are some ideas to get you started:
   <img align="left" alt="email" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
 <a href="https://www.linkedin.com/in/franczyk-monika/">
-  <img align="left" alt="LinkedIN" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />  
+  <img align="left" alt="LinkedIN" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />  
 </a>   
 
